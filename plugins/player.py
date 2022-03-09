@@ -174,7 +174,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="SUPPORT GUJIYA",
-                            url=f"https://t.me/COOL_DIKHUNGA")
+                            url=f"https://t.me/GUJIYA_GARAM")
 
                 ]
             ]
@@ -213,7 +213,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="GUJIYA PLAYING ",
-                            url=f"https://t.me/COOL_DIKHUNGA")
+                            url=f"https://t.me/GUJIYA_GARAM")
 
                 ]
             ]
@@ -229,7 +229,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="💥 GUJIYA STATED FUCKING 💞",
-                            url=f"https://t.me/COOL-DIKHUNGA")
+                            url=f"https://t.me/GUJIYA_GARAM")
 
                 ]
             ]
@@ -281,10 +281,10 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                        InlineKeyboardButton("• Cʜᴀɴɴᴇʟ", url=f"https://t.me/COOL_DIKHUNGA"),
-                      InlineKeyboardButton("• Group", url=f"https://t.me/v3nom_support"),
+                        InlineKeyboardButton("• OWNER", url=f"https://t.me/VENOMxCRAZY"),
+                      InlineKeyboardButton("• Support", url=f"https://t.me/v3nom_support"),
                   ],[
-                      InlineKeyboardButton("𝐎 𝐖 𝐍 𝐄 𝐑", url=f"https://t.me/ZAAL_IM")
+                      InlineKeyboardButton("🇬 🇬 ᵒᶠᶠⁱᶜⁱᵃˡ", url=f"https://t.me/GUJIYA_GARAM")
 
                 ]
             ]
